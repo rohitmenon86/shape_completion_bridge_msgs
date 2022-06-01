@@ -1,0 +1,11 @@
+sensor_msgs/PointCloud2 observed_point_cloud
+uint8 SUPERELLIPSOID=0
+uint8 SHAPE_REGISTRATION=1
+uint8 SHAPE_RECONSTRUCTION=2
+
+uint8 shape_completion_method
+---
+
+string result_text
+int16  result_code 
+CompletedShape[] completed_shapes
