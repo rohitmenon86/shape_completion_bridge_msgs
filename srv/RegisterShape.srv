@@ -1,0 +1,6 @@
+ClusteredShape observed_shape
+---
+
+string result_text
+int16  result_code 
+ShapeRegistrationResult registered_shape

@@ -1,0 +1,6 @@
+ClusteredShape[] clustered_shapes
+---
+std_msgs/Header header
+string result_text
+int16  result_code 
+SuperellipsoidResult[] superellipsoids

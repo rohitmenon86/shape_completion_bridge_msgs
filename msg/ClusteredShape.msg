@@ -1,0 +1,2 @@
+sensor_msgs/PointCloud2 pointcloud_cluster
+geometry_msgs/Point centre_cluster

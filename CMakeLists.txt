@@ -55,12 +55,17 @@ add_message_files(
   RoiProbability.msg
   PointCloudwithRoiProbability.msg
   CompletedShape.msg
+  ClusteredShape.msg 
+  SuperellipsoidResult.msg
+  ShapeRegistrationResult.msg
 )
 
 ## Generate services in the 'srv' folder
 add_service_files(
   FILES
   CompleteShapes.srv
+  FitSuperellipsoids.srv 
+  RegisterShape.srv
 )
 
 ## Generate actions in the 'action' folder
