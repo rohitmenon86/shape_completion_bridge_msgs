@@ -1,5 +1,9 @@
+bool valid_completion
+geometry_msgs/Point     optimised_centre
+sensor_msgs/PointCloud2 observed_pointcloud
 sensor_msgs/PointCloud2 surface_pointcloud
 sensor_msgs/PointCloud2 volume_pointcloud
-sensor_msgs/PointCloud2 missing_surface_pointcloud
-geometry_msgs/Point     optimised_centre
 sensor_msgs/PointCloud2 normals
+sensor_msgs/PointCloud2 missing_surface_pointcloud
+
+

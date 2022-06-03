@@ -52,8 +52,8 @@ geometry_msgs
 ## Generate messages in the 'msg' folder
 add_message_files(
   FILES
-  RoiProbability.msg
-  PointCloudwithRoiProbability.msg
+  RoiData.msg
+  PointCloudwithRoiData.msg
   CompletedShape.msg
   ClusteredShape.msg 
   SuperellipsoidResult.msg

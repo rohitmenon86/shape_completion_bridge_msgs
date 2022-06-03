@@ -1,2 +1,0 @@
-int32 roi_index
-float32 roi_probability

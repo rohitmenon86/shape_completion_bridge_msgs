@@ -1,2 +1,2 @@
 sensor_msgs/PointCloud2 point_cloud
-RoiProbability[] roi_probabilties
+RoiData[] roi_data

@@ -1,2 +1,3 @@
+string roi_name
 sensor_msgs/PointCloud2 cluster_pointcloud
 geometry_msgs/Point estimated_centre
