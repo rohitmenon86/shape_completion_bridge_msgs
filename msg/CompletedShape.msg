@@ -1,2 +1,2 @@
 PointCloudwithRoiData predicted_point_cloud
-geometry_msgs/Transform rigid_local_transform
+int32[] indices
