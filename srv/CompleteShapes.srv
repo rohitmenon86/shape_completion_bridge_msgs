@@ -1,3 +1,7 @@
+uint8 SUPERELLIPSOID = 0
+uint8 SHAPE_REGISTRATION = 1
+uint8 SHAPE_RECONSTRUCTION = 2
+uint8 shape_completion_method
 string roi_name
 ---
 

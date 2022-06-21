@@ -1,4 +1,5 @@
 ClusteredShape[] clustered_shapes
+sensor_msgs/PointCloud2 observed_cloud
 ---
 std_msgs/Header header
 string result_text
