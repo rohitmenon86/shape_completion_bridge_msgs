@@ -1,3 +1,4 @@
 geometry_msgs/Transform rigid_local_transform
 sensor_msgs/PointCloud2 predicted_pointcloud
+geometry_msgs/Point cluster_centre
 sensor_msgs/PointCloud2 observed_pointcloud
