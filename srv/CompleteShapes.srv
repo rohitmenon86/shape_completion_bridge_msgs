@@ -9,3 +9,4 @@ string result_text
 int16  result_code 
 CompletedShape[] completed_shapes
 PointCloudwithRoiData full_predicted_point_cloud
+geometry_msgs/Point[] missing_surface_cluster_centres
