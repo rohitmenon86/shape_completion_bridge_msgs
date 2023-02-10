@@ -1,0 +1,10 @@
+sensor_msgs/PointCloud2[] ground_truth_clusters
+geometry_msgs/Point[]     ground_truth_centres
+float64 cluster_centre_threshold
+float64 volume_accuracy_threshold
+---
+uint32 num_clusters
+float64[] estimated_volumes
+float64[] estimated_volumes_difference
+geometry_msgs/Point[]     estimated_centres
+float64[]     estimated_centres_difference
